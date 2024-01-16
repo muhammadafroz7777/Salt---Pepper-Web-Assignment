@@ -1,0 +1,11 @@
+/* color varible */
+
+:root{
+    --red:#ED1C24;
+    --white:#FFFFFF;
+    --black:#000000;
+}
+
+#head{
+    background-color: var(--red);
+}
