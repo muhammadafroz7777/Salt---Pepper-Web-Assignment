@@ -1,11 +1,58 @@
 /* color varible */
 
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
 :root{
     --red:#ED1C24;
     --white:#FFFFFF;
     --black:#000000;
+    font-family: 'Poppins', sans-serif;
 }
 
-#head{
-    background-color: var(--red);
+/* Styling start Nav-bar */
+#navbar-items{
+
+    gap: 30px;
 }
+
+#navbar{
+    padding: 0px 10px;
+}
+
+#main-logo{
+    width: 165px;
+}
+
+.nav-link{
+    text-decoration: none;
+}
+
+#franchise{
+background-color: transparent;
+border: 1px solid white;
+cursor: pointer;
+padding: 15px 20px;
+}
+
+#onder-online{
+    background-color: var(--red);
+    cursor: pointer;
+    padding: 15px 20px;
+    border: 0px;
+
+
+}
+
+#btn-icon{
+    padding: 5px 7px;
+}
+
+#red{
+  color: var(--red);
+  
+}
+
+#children-images{
+    gap: 30px;
+}
+/* Styling End Nav-bar */
