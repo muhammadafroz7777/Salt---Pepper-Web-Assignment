@@ -1,6 +1,7 @@
 /* color varible */
 
   @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Rubik+Burned&display=swap');
 
 :root{
     --red:#ED1C24;
@@ -54,5 +55,10 @@ padding: 15px 20px;
 
 #children-images{
     gap: 30px;
+}
+
+.bold{
+    font-size: 52px;
+    font-family:'Rubik Burned', system-ui; 
 }
 /* Styling End Nav-bar */
