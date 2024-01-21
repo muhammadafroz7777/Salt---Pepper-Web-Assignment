@@ -98,6 +98,10 @@
     margin-top: 20px;
 }
 
+.mt-5{
+    margin-top: 50px;
+}
+
 /* Margin Classes End */
 
 .bg-light{
@@ -145,7 +149,21 @@
 }
 
 
+/* padding classes */
+.pr{
+    padding-right: 50px;
+}
 
+.pl{
+    padding-left: 50px;
+}
+
+
+/* Width...... */
+
+.width{
+    width: 30px;
+}
 
 
 

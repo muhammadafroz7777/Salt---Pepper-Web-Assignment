@@ -62,3 +62,16 @@ padding: 15px 20px;
     font-family:'Rubik Burned', system-ui; 
 }
 /* Styling End Nav-bar */
+
+/* returant area started */
+#Restaurants{
+    gap: 50px;
+}
+
+/* returant area Ended */
+
+/* Express Aera Started */
+#Express{
+    gap: 20px;
+}
+/* Express Aera Ended */
