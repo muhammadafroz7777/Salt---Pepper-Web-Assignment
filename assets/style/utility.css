@@ -102,6 +102,15 @@
     margin-top: 50px;
 }
 
+.ms-1{
+    margin-left: 10px;
+}
+
+.me-1{
+    margin-right: 10px;
+}
+
+
 /* Margin Classes End */
 
 .bg-light{
